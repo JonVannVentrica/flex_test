@@ -1,4 +1,4 @@
-name: Deploy Flex
+name: Deploy Flex Without Release
 
 # Within this file, FEATURE and END FEATURE blocks are used only by the remove-features script.
 
